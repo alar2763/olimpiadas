@@ -1,4 +1,4 @@
-**## README.md: Sua Central de Atletas Brasileiros**
+**## README.md: Sua Central de Atletas Brasileiros - Imersão DEV com Google Gemini**
 
 ** Prepare-se para conhecer os maiores atletas do Brasil! **
 
